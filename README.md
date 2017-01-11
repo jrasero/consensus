@@ -1,4 +1,7 @@
 # Consensus clustering approach to group brain connectivity matrices
+
+![](https://github.com/jrasero/consensus/blob/master/docs/github.png)
+
 Code to calculate the consensus matrix from a set of distance matrices using k-medoids as described in
 
 Consensus clustering approach to group brain connectivity matrices. J.Rasero, Mario Pellicoro, Leonardo Angelini, Jesus M. Cortes, Daniele Marinazzo and Sebastiano Stramaglia. [https://arxiv.org/abs/1612.03760](https://arxiv.org/abs/1612.03760).

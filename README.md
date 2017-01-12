@@ -1,7 +1,7 @@
 # Consensus clustering approach to group brain connectivity matrices
 
 <p align="center">
-  <img src="(https://github.com/jrasero/consensus/blob/master/docs/github.png">
+  <img src="https://github.com/jrasero/consensus/blob/master/docs/github.png">
 </p>
 
 Code to calculate the consensus matrix from a set of distance matrices using k-medoids as described in

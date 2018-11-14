@@ -13,5 +13,6 @@ The folder *matlab* contains the toolbox in MATLAB. It consists of the function 
   <img src="https://github.com/jrasero/consensus/blob/master/matlab/toy_model.png">
 </p>
 
+The *R* version is now also available. It consists of the function **consensus** and the requirements are the ***cluster***, ***graphAT*** and ***foreach*** libraries. The requirement of usage of these libraries might change in the future.
 
 Please do not hesitate to contact us for suggestions and remarks to jrasero.daparte@gmail.com
